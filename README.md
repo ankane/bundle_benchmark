@@ -39,6 +39,12 @@ In your project directory, run:
 bundle_benchmark
 ```
 
+To benchmark a specific Gemfile, run:
+
+```sh
+BUNDLE_GEMFILE=~/Projects/project_n/Gemfile bundle_benchmark
+```
+
 To only require certain groups - like Rails does - do
 
 ```sh
