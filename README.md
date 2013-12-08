@@ -75,7 +75,7 @@ Here’s what I did:
 ## Bonus
 
 ```sh
-script/rails console # or server, etc
+bin/rails console # or server, etc
 ```
 
 is faster than
