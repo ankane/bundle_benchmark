@@ -56,7 +56,7 @@ BUNDLE_GROUPS=default,development,assets bundle_benchmark
 
 Read this article
 
-http://iain.nl/getting-the-most-out-of-bundler-groups
+https://iain.nl/getting-the-most-out-of-bundler-groups
 
 ## The Results
 
